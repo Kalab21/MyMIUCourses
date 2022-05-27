@@ -1,0 +1,83 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+ .nav{
+    margin:25px 0px 20px 30px;
+    
+}
+ul{
+text-decoration: none;
+ 
+}
+.header{
+    color:rgba(189, 183, 107, 0.905);
+    background-color:rgba(192, 192, 192, 0.208);
+    font-size:40px;
+     margin:20px 10px 20px 10px;
+     text-decoration:1px underline;
+
+}
+.h1{
+   text-align: center;  
+}
+.FirstImage{
+    margin-left: 10px;
+}
+.list1{
+    margin:10px 0px;
+}
+.hr{
+   margin-right:10px;
+}
+.list{
+    margin:10px 0px 10px 40px;   
+}
+.hr2{
+    margin-left: 10px;
+}
+
+.list-dir li{
+    margin-left:60px;
+     list-style:circle;
+    
+}
+.direction{
+    margin-left:20px;
+}
+#p{
+ margin:10px 0px;
+ margin-left:-10px;
+}
+
+.user{
+    background-color:khaki;
+    margin:12px 0px 10px 40px;
+}
+.address{
+    margin-top:15px;
+}
+#footer{
+    color:rgba(189, 183, 107, 0.905);
+    text-decoration: underline;
+}
+
+.footer-Imag{
+    margin-left:85%;
+}
+.copyright{
+   margin-left:76%;
+margin-top:10px;
+margin-bottom:10px;
+font-family:serif;
+}
+ .spa1{
+    margin-left:55px
+} 
+ .spa2{
+    margin-left:99px
+} 
+ .spa3{
+    margin-left:161px
+} 
